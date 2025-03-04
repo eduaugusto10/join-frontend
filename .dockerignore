@@ -1,0 +1,39 @@
+# Dependências
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de build
+build
+dist
+
+# Arquivos de controle de versão
+.git
+.gitignore
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Arquivos de teste
+coverage
+.nyc_output
+
+# Arquivos de documentação
+README.md
+CHANGELOG.md
+docs 
